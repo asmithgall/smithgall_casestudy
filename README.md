@@ -1,9 +1,11 @@
 # Modelling Gas Prices Case Study
 by Alex Smithgall
 
+## Documentation
+Please start by reading the Hook Document.pdf and then look at the Rubric.pdf. These documents will get you oriented to the case study prompt and deliverables.
 
-
-
+## Materials
+The materials folder contains everything you will need to carry out the case study. Within this folder, there is the Background Articles, Technical Articles, and the Data folder. The data folder contains the preliminary dataset with an Data Appendix pdf that has a data dictionary and sources. Finally, there is an example script which fits two example models on the data.
 
 ## References
 [1] “Factors affecting gasoline prices - U.S. Energy Information Administration (EIA).” Accessed: May 08, 2024. [Online]. Available: https://www.eia.gov/energyexplained/gasoline/factors-affecting-gasoline-prices.php
